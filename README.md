@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashwini Yaraguppi</h1>
 <h3 align="center">Aspiring Software Developer | Web Development | ML Enthusiast</h3>
 
-<p align="right">
+<!-- <p align="right">
   <img alt="coding" width="300" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png">
-</p>
+</p> -->
 
 ---
 
