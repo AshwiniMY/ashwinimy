@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Web Development | ML Enthusiast</h3>
 
 <p align="right">
-  <img alt="coding" width="300" src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-6004512-4958375.png">
+  <img alt="coding" width="300" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png">
 </p>
 
 ---
