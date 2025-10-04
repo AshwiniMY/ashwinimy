@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashwini Yaraguppi</h1>
 <h3 align="center">Aspiring Software Developer | Web Development | ML Enthusiast</h3>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="right">
+  <img alt="coding" width="300" src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-6004512-4958375.png">
+</p>
 
 ---
 
