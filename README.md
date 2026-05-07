@@ -1,87 +1,23 @@
-<h1 align="center">Hi 👋, I'm Ashwini Yaraguppi</h1>
-<h3 align="center">Aspiring Software Developer | Web Development | ML Enthusiast</h3>
+Hi 👋 My name is Ashwini M Y
+============================
 
-<!-- <p align="right">
-  <img alt="coding" width="300" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png">
-</p> -->
+Full Stack Web Developer | Django & React Developer
+---------------------------------------------------
 
----
+Computer Science Engineering graduate focused on full-stack web development using Django, JavaScript, React, HTML, and CSS.
 
-- 🌱 I’m a fresher passionate about **building web applications** and learning **backend & DevOps tools**.  
-- 🌱 Currently exploring **React, Node.js, and DevOps practices**.  
+Built projects including a Campus Recruitment Platform and Expense Tracking System with CRUD operations, responsive UI, and database integration.
 
----
+Experienced in frontend development, DOM manipulation, LocalStorage, Django ORM, and responsive design through academic projects and internship work.
 
-### 💼 Internships
-- **Agileitech – Web Development Intern**  
-  Worked on frontend development using HTML, CSS, Bootstrap, and integrated APIs.  
+Currently improving React.js and backend development skills while building practical web applications.
 
-- **Rooman Technologies – AI DevOps Engineer Trainee**  
-  Hands-on exposure with Git, Docker, and CI/CD pipelines on cloud environments.  
 
----
+* ✉️  You can contact me at [ashwinimyaraguppi@gmail.com](mailto:ashwinimyaraguppi@gmail.com)
+* 🧠  I'm currently learning React.js, Backend Development, and REST API Integration
+* 👥  I'm looking to collaborate on Frontend Web Development and Full Stack Projects
+  
 
-### 🚀 Projects
-- 📌 [Campus Recruitment System](https://github.com/YOUR-USERNAME/campus-recruitment-system)  
-  *A full-stack app for job postings & interview scheduling using HTML, CSS, JavaScript, and MySQL.*  
-
-- 📌 [Expense Tracking System](https://github.com/YOUR-USERNAME/expense-tracking-system)  
-  *A web app to add, categorize, and analyze daily expenses with summary reports.*  
-
----
-
-### 📫 Reach Me
-- ✉️ **ashwinimyaraguppi@gmail.com**  
-- 🔗 [LinkedIn](https://linkedin.com/in/ashwini-yaraguppi)  
-- 🖥️ [GitHub](https://github.com/YOUR-USERNAME)  
-
----
-
-<h3 align="left">🛠️ Languages and Tools</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwinimy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ashwinimy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinimy&theme=tokyonight" alt="ashwinimy" />
-</p>
-
----
-
-⭐️ *Thanks for visiting my GitHub! Feel free to check out my projects or connect with me.*  
