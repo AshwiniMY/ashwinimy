@@ -2,40 +2,46 @@
 
 ## Aspiring Full Stack Developer | Django & React Developer
 
-Computer Science Engineering graduate focused on full-stack web development using Django, JavaScript, React, HTML, and CSS.
+Computer Science and Design graduate passionate about building responsive and user-friendly web applications using React.js, Django, JavaScript, and Python.
 
-Built projects including a Campus Recruitment Platform and Expense Tracking System with CRUD operations, responsive UI, and database integration.
-
-Skilled in frontend development, DOM manipulation, LocalStorage, Django ORM, and responsive web design through internship experience and personal projects.
-
-Currently improving React.js and backend development skills while building practical web applications.
-
----
+💻 Interested in Full Stack Development
+🌱 Currently learning React.js, REST APIs, and advanced Django concepts
+🚀 Focused on building practical projects and improving problem-solving skills
 
 * ✉️ You can contact me at: [ashwinimyaraguppi@gmail.com](mailto:ashwinimyaraguppi@gmail.com)
 * 🧠 I'm currently learning: React.js, Backend Development, and REST API Integration
 * 👥 I'm looking to collaborate on: Frontend Web Development and Full Stack Projects
 
----
+## Tech Stack
 
-## 🚀 Projects
+**Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap
 
-### 📌 Campus Recruitment Platform
-Full-stack recruitment system built using Django, SQLite, JavaScript, HTML, and CSS.
+**Backend:** Django, Python
 
----
+**Database:** SQLite, Oracle SQL
 
-### 📌 Expense Tracking System
-Expense management application built using HTML, CSS, and JavaScript.
+**Tools:** Git, GitHub, VS Code
 
----
+## Projects
+
+### Campus Recruitment Platform
+
+A full-stack recruitment system with role-based access, job management, and application tracking.
+
+**Tech:** Django, Python, SQLite, JavaScript
+
+### AI Resume Builder
+
+An AI-powered application for generating ATS-friendly resumes with authentication and real-time preview.
+
+**Tech:** React.js, Tailwind CSS, Gemini AI
+
 
 ## 🛠️ Skills
 
 <p align="center">
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="32" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" /></a><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="32" /></a><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="32" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="32" /></a><a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="32" /></a><a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="32" /></a><a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="32" /></a><a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="32" /></a><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="32" /></a>
 </p>
-
 
 
 ## 📊 GitHub Stats
