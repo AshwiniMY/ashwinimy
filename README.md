@@ -6,17 +6,16 @@ I'm a Computer Science and Design graduate passionate about building responsive,
 
 I enjoy learning new technologies, developing projects, and exploring Generative AI.
 
-- 🔭 Building full-stack web applications.
-- 🌱 Exploring Generative AI, REST APIs, and backend development.
-- 💡 Interested in Full Stack Development and problem-solving.
-- 🤝 Open to collaborating on interesting development projects.
-- 📫 Reach me at: **ashwinimyaraguppi@gmail.com**
+-  Building full-stack web applications.
+-  Exploring Generative AI, REST APIs, and backend development.
+-  Open to collaborating on interesting development projects.
+-  Reach me at: **ashwinimyaraguppi@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap
+**Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap
 
 **Backend:** Python, Django
 
@@ -28,7 +27,7 @@ I enjoy learning new technologies, developing projects, and exploring Generative
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### Campus Recruitment Platform
 A full-stack web application for managing campus recruitment, job postings, and student applications.
@@ -42,7 +41,7 @@ An AI-powered application for generating ATS-friendly resumes with AI-generated 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="left">
 <a href="https://github.com/ashwinimy">
